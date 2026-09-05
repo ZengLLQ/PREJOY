@@ -1,4 +1,4 @@
-# PreJOY
+# PRE-JOY
 
 ## it was a dream basically
 
